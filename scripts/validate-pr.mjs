@@ -182,7 +182,7 @@ if (Array.isArray(registry.presets)) {
     }
 
     // dataUrl pattern check
-    const expectedUrlPattern = `https://erutobusiness.github.io/countstack-presets/presets/${entry.id}/preset.json`;
+    const expectedUrlPattern = `https://eruto-apps.github.io/countstack-presets/presets/${entry.id}/preset.json`;
     if (entry.dataUrl !== expectedUrlPattern) {
       error(
         `dataUrl for "${entry.id}" should be "${expectedUrlPattern}" but got "${entry.dataUrl}"`,

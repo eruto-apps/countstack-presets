@@ -18,5 +18,5 @@
 - [ ] All required fields are present (see `schema/preset.schema.json`)
 - [ ] `items[].counter` references valid counter IDs
 - [ ] `registry.json` entry added with correct `entryCount`, `groupCount`, and `version`
-- [ ] `dataUrl` follows the pattern `https://erutobusiness.github.io/countstack-presets/<id>/preset.json`
+- [ ] `dataUrl` follows the pattern `https://eruto-apps.github.io/countstack-presets/<id>/preset.json`
 - [ ] CI validation passes

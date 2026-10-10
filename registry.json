@@ -17,7 +17,7 @@
       "counters": 6,
       "entryCount": 387,
       "groupCount": 31,
-      "dataUrl": "https://erutobusiness.github.io/countstack-presets/presets/frlg/preset.json",
+      "dataUrl": "https://eruto-apps.github.io/countstack-presets/presets/frlg/preset.json",
       "tags": [
         "gen3",
         "gba",
@@ -53,7 +53,7 @@
       "counters": 6,
       "entryCount": 78,
       "groupCount": 7,
-      "dataUrl": "https://erutobusiness.github.io/countstack-presets/presets/workout/preset.json",
+      "dataUrl": "https://eruto-apps.github.io/countstack-presets/presets/workout/preset.json",
       "tags": [
         "fitness",
         "workout",
@@ -89,7 +89,7 @@
       "counters": 1,
       "entryCount": 334,
       "groupCount": 28,
-      "dataUrl": "https://erutobusiness.github.io/countstack-presets/presets/dnd5e-xp/preset.json",
+      "dataUrl": "https://eruto-apps.github.io/countstack-presets/presets/dnd5e-xp/preset.json",
       "tags": [
         "ttrpg",
         "dnd",
@@ -125,7 +125,7 @@
       "counters": 5,
       "entryCount": 31,
       "groupCount": 6,
-      "dataUrl": "https://erutobusiness.github.io/countstack-presets/presets/study/preset.json",
+      "dataUrl": "https://eruto-apps.github.io/countstack-presets/presets/study/preset.json",
       "tags": [
         "education",
         "study",
@@ -161,7 +161,7 @@
       "counters": 5,
       "entryCount": 186,
       "groupCount": 7,
-      "dataUrl": "https://erutobusiness.github.io/countstack-presets/presets/birding/preset.json",
+      "dataUrl": "https://eruto-apps.github.io/countstack-presets/presets/birding/preset.json",
       "tags": [
         "nature",
         "birding",
@@ -197,7 +197,7 @@
       "counters": 5,
       "entryCount": 30,
       "groupCount": 6,
-      "dataUrl": "https://erutobusiness.github.io/countstack-presets/presets/jlpt/preset.json",
+      "dataUrl": "https://eruto-apps.github.io/countstack-presets/presets/jlpt/preset.json",
       "tags": [
         "language",
         "japanese",

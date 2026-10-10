@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://erutobusiness.github.io/countstack-presets/schema/preset.schema.json",
+  "$id": "https://eruto-apps.github.io/countstack-presets/schema/preset.schema.json",
   "title": "GamePreset",
   "description": "A countstack game preset defining counters, multipliers, items, database entries, and more.",
   "type": "object",

@@ -214,7 +214,7 @@ After creating your preset, add an entry to `registry.json` in the root of the r
   "counters": 1,
   "entryCount": 1,
   "groupCount": 0,
-  "dataUrl": "https://erutobusiness.github.io/countstack-presets/presets/my-game/preset.json",
+  "dataUrl": "https://eruto-apps.github.io/countstack-presets/presets/my-game/preset.json",
   "tags": ["tag1", "tag2"]
 }
 ```
@@ -222,7 +222,7 @@ After creating your preset, add an entry to `registry.json` in the root of the r
 - Set `size` to the file size of `preset.json` in bytes
 - Set `counters` to the number of counters
 - Set `entryCount` and `groupCount` to the number of database entries and groups
-- `dataUrl` must follow the pattern: `https://erutobusiness.github.io/countstack-presets/presets/<id>/preset.json`
+- `dataUrl` must follow the pattern: `https://eruto-apps.github.io/countstack-presets/presets/<id>/preset.json`
 
 ## Submitting a Pull Request
 

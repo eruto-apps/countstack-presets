@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://erutobusiness.github.io/countstack-presets/schema/registry.schema.json",
+  "$id": "https://eruto-apps.github.io/countstack-presets/schema/registry.schema.json",
   "title": "PresetRegistry",
   "description": "Registry of available countstack presets for discovery and version checking.",
   "type": "object",
